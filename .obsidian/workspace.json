@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "45ea8cde55ecb4e2",
+        "id": "ff8930437f5a6fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "ee87004fbef01a7b",
+            "id": "1922e3c919ad93a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java_basic.md",
+                "file": "Lenguajes de marcas/HTML attributes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "java_basic"
+              "title": "HTML attributes"
+            }
+          },
+          {
+            "id": "04df971c1cc08f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note taking system.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Note taking system"
+            }
+          },
+          {
+            "id": "38ada71da884f77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Data types.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Data types"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5edc20911aee06ff",
@@ -94,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java_basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for java_basic"
             }
           },
           {
@@ -112,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "java_basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from java_basic"
             }
           },
           {
@@ -140,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "sec.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of sec"
             }
           },
           {
@@ -163,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,14 +205,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ee87004fbef01a7b",
+  "active": "38ada71da884f77e",
   "lastOpenFiles": [
-    "Untitled 1",
+    "Lenguajes de marcas/HTML attributes.md",
+    "Note taking system.md",
+    "Templates/Atomic note.md",
+    "Java/Data types.md",
+    "Lenguajes de marcas/Atributos html/Main.md",
+    "Lenguajes de marcas/Atributos html/Atributo class.md",
+    "Lenguajes de marcas/Atributos html/Atributo src.md",
+    "Lenguajes de marcas/Atributos html/Atributo Id.md",
+    "Lenguajes de marcas/Atributos html/Atributo href.md",
+    "Atributo class.md",
+    "Lenguajes de marcas/Atributo Id.md",
+    "Lenguajes de marcas/Atributo href.md",
+    "Lenguajes de marcas/Atributo class.md",
+    "Lenguajes de marcas/Atributo src.md",
+    "Lenguajes de marcas/Atributos html",
+    "Lenguajes de marcas/Nueva carpeta",
+    "Atributo href.md",
+    "Atributo src.md",
+    "Atributo Id.md",
+    "Java/Variables.md",
+    "Untitled 1.md",
+    "Templates",
+    "Nueva carpeta",
+    "Lenguajes de marcas/Fundamentos HTML y CSS.md",
     "Untitled",
-    "java_basic.md",
+    "Java/Main structures.md",
+    "Lenguajes de marcas",
+    "Img/type_of_programs.png",
+    "Img",
+    "NotebookLM Mind Map (1).png",
+    "NotebookLM Mind Map (2) 1.png",
+    "NotebookLM Mind Map (2).png",
+    "Pasted image 20250330130114.png",
+    "Pasted image 20250330130244.png",
+    "Pasted image 20250330125609.png",
+    "Pasted image 20250330125056.png",
+    "Pasted image 20250330125049.png",
+    "Pasted image 20250330125116.png",
+    "sec.md",
+    "Untitled 1",
     "Java"
   ]
 }
