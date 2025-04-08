@@ -1,0 +1,8 @@
+{
+  "id@@kanban-variant": "kanban-full",
+  "id@@kanban-full-height-column": false,
+  "id@@kanban-same-height-cards": false,
+  "vicious@@scrollbar-hide": false,
+  "vicious@@disable-alternative-checkboxes": false,
+  "vicious@@vibrant-indents": false
+}

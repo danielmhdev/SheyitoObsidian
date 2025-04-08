@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ff8930437f5a6fcb",
+        "id": "1f8b0285ec0dc07b",
         "type": "tabs",
         "children": [
           {
-            "id": "1922e3c919ad93a0",
+            "id": "ecd57788fbbc5e94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lenguajes de marcas/HTML attributes.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HTML attributes"
-            }
-          },
-          {
-            "id": "04df971c1cc08f1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note taking system.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Note taking system"
-            }
-          },
-          {
-            "id": "38ada71da884f77e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Data types.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Data types"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5edc20911aee06ff",
@@ -195,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,47 +177,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38ada71da884f77e",
+  "active": "ecd57788fbbc5e94",
   "lastOpenFiles": [
     "Lenguajes de marcas/HTML attributes.md",
-    "Note taking system.md",
-    "Templates/Atomic note.md",
+    "Java/Switch case block.md",
+    "Java/Type promotion.md",
+    "Java/Ternary operator.md",
+    "Java/Variables.md",
+    "Java/Basic operators.md",
+    "If block.md",
+    "Java/JOptionPane class.md",
     "Java/Data types.md",
+    "Java/Scanner class.md",
+    "Java/String class.md",
+    "Java/Math class.md",
+    "Note taking system.md",
+    "Untitled.canvas",
+    "Java/Java API.md",
+    "Java/Random Access Memory.md",
+    "Templates/Atomic note.md",
+    "Java/Summary.md",
+    "notyet.md",
+    "Methods to say serve.md",
+    "Img/javaPackets.png",
+    "Img/stack&Heap.png",
+    "Pasted image 20250405120134.png",
+    "Img/Pasted image 20250402232222.png",
+    "Connection.md",
+    "Java/Main structures.md",
+    "Pasted image 20250405110754.png",
+    "Java/RAM memory.md",
+    "Java/Java operators.md",
+    "Img/type_of_programs.png",
     "Lenguajes de marcas/Atributos html/Main.md",
     "Lenguajes de marcas/Atributos html/Atributo class.md",
     "Lenguajes de marcas/Atributos html/Atributo src.md",
-    "Lenguajes de marcas/Atributos html/Atributo Id.md",
-    "Lenguajes de marcas/Atributos html/Atributo href.md",
-    "Atributo class.md",
-    "Lenguajes de marcas/Atributo Id.md",
-    "Lenguajes de marcas/Atributo href.md",
-    "Lenguajes de marcas/Atributo class.md",
-    "Lenguajes de marcas/Atributo src.md",
     "Lenguajes de marcas/Atributos html",
     "Lenguajes de marcas/Nueva carpeta",
-    "Atributo href.md",
-    "Atributo src.md",
-    "Atributo Id.md",
-    "Java/Variables.md",
-    "Untitled 1.md",
     "Templates",
     "Nueva carpeta",
-    "Lenguajes de marcas/Fundamentos HTML y CSS.md",
     "Untitled",
-    "Java/Main structures.md",
     "Lenguajes de marcas",
-    "Img/type_of_programs.png",
     "Img",
     "NotebookLM Mind Map (1).png",
     "NotebookLM Mind Map (2) 1.png",
     "NotebookLM Mind Map (2).png",
     "Pasted image 20250330130114.png",
-    "Pasted image 20250330130244.png",
-    "Pasted image 20250330125609.png",
-    "Pasted image 20250330125056.png",
-    "Pasted image 20250330125049.png",
-    "Pasted image 20250330125116.png",
-    "sec.md",
     "Untitled 1",
     "Java"
   ]

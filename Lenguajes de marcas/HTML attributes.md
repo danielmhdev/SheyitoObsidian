@@ -10,7 +10,3 @@ Los atributos en html añaden información y definen el comportamiento sobre un 
 - **`class`**: Agrupa elementos para aplicarles estilos comunes.
 -  **`src`**: Especifica la fuente de un archivo (como una imagen).
 -  **`href`**: Define la URL de un enlace.
-___
-Similar: **[[Connection]]**
-Source: **[[Connection]]**
-Derivative: **[[Connection]]**

@@ -1,0 +1,22 @@
+.inline-title {
+    margin-top: 5px;
+}
+h2 {
+    margin-bottom: 10px;
+  }
+  
+h3 {
+    margin-top: 10px;
+  }
+h4 {
+  margin-top: 10px
+}
+a.internal-link {
+  text-decoration: none !important;
+  color: #BF80FF!important;
+}
+
+a.internal-link:hover {
+  text-decoration: none !important;
+  color: #d3a7ff !important;
+}

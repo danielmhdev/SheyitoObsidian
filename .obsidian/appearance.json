@@ -1,3 +1,8 @@
 {
-  "cssTheme": "GitHub Theme"
+  "cssTheme": "Gummy-Revived",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "theme": "obsidian",
+  "accentColor": "#bf80ff"
 }
