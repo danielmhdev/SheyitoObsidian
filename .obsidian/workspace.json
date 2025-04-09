@@ -11,10 +11,14 @@
             "id": "36589e1c3b384f97",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LLMM Orientation.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "LLMM Orientation"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5edc20911aee06ff",
@@ -139,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "LLMM Orientation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of LLMM Orientation"
             }
           },
           {
@@ -178,8 +182,9 @@
   },
   "active": "36589e1c3b384f97",
   "lastOpenFiles": [
-    "Exceptions management.md",
-    "Exception compilation.md",
+    "Note taking system.md",
+    "Java/Exceptions management.md",
+    "Java/Exception compilation.md",
     "Git takeaways.md",
     "Entornos de desarrollo/Git takeaways.md",
     "Entornos de desarrollo/Git merge.md",
@@ -191,7 +196,6 @@
     "Templates/Summary note.md",
     "LLMM Orientation.md",
     "Entornos de desarrollo",
-    "Note taking system.md",
     "Lenguajes de marcas/HTML attributes.md",
     "Java/If block.md",
     "Java/Switch case block.md",
