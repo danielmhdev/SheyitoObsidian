@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f8b0285ec0dc07b",
+        "id": "d59125015fa82325",
         "type": "tabs",
         "children": [
           {
-            "id": "ecd57788fbbc5e94",
+            "id": "36589e1c3b384f97",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sec.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sec"
+              "title": "Outline"
             }
           },
           {
@@ -177,46 +176,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ecd57788fbbc5e94",
+  "active": "36589e1c3b384f97",
   "lastOpenFiles": [
+    "Exceptions management.md",
+    "Exception compilation.md",
+    "Git takeaways.md",
+    "Entornos de desarrollo/Git takeaways.md",
+    "Entornos de desarrollo/Git merge.md",
+    "Entornos de desarrollo/Conflicts.md",
+    "Git merge.md",
+    "Conflicts.md",
+    "Templates/X Takeaways.md",
+    "Templates/Conceptual note.md",
+    "Templates/Summary note.md",
+    "LLMM Orientation.md",
+    "Entornos de desarrollo",
+    "Note taking system.md",
     "Lenguajes de marcas/HTML attributes.md",
+    "Java/If block.md",
     "Java/Switch case block.md",
     "Java/Type promotion.md",
     "Java/Ternary operator.md",
     "Java/Variables.md",
     "Java/Basic operators.md",
-    "If block.md",
     "Java/JOptionPane class.md",
     "Java/Data types.md",
     "Java/Scanner class.md",
     "Java/String class.md",
     "Java/Math class.md",
-    "Note taking system.md",
     "Untitled.canvas",
     "Java/Java API.md",
-    "Java/Random Access Memory.md",
-    "Templates/Atomic note.md",
-    "Java/Summary.md",
-    "notyet.md",
-    "Methods to say serve.md",
     "Img/javaPackets.png",
     "Img/stack&Heap.png",
     "Pasted image 20250405120134.png",
     "Img/Pasted image 20250402232222.png",
-    "Connection.md",
-    "Java/Main structures.md",
     "Pasted image 20250405110754.png",
-    "Java/RAM memory.md",
-    "Java/Java operators.md",
     "Img/type_of_programs.png",
-    "Lenguajes de marcas/Atributos html/Main.md",
-    "Lenguajes de marcas/Atributos html/Atributo class.md",
-    "Lenguajes de marcas/Atributos html/Atributo src.md",
     "Lenguajes de marcas/Atributos html",
     "Lenguajes de marcas/Nueva carpeta",
     "Templates",
     "Nueva carpeta",
-    "Untitled",
     "Lenguajes de marcas",
     "Img",
     "NotebookLM Mind Map (1).png",

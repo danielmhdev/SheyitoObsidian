@@ -7,4 +7,9 @@ Definition body
 ___
 ## **Key concepts**
 - Concept
+___
+## **Resources**
+___
+## **Connections**
+
 
