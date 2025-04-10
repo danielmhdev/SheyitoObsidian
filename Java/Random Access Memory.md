@@ -16,5 +16,5 @@ ___
 - Has more space compared to the stack,
 - Memory is managed manually or by garbage collector.
 ---
-## **Resources**
+## **Example**
 ![[stack&Heap.png]]

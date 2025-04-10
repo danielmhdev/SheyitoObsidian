@@ -3,7 +3,7 @@ tags: "#java"
 created: "2025-04-09 09:58:26"
 ---
 ## **Definition**
-Las excepciones son errores no controlados durante la ejecución de un programa y es imprescindible manejarlas de forma eficiente para que el código funcione correctamente. 
+Las excepciones son errores controlables durante la ejecución de un programa y es imprescindible manejarlas de forma eficiente para que el código funcione correctamente. 
 ___
 ## **Key concepts**
 ### **Purpose**
@@ -24,7 +24,7 @@ Excepciones creadas por el propio programador para lanzar errores intencionalmen
 ### **Errors**
 Los errores no son excepciones. Estos representan consecuencias graves en el sistema o el JVM y no pueden manejarse.
 ___
-## **Resources**
+## **Example**
 ```java
 try {
 	int x = 10/0
@@ -34,7 +34,5 @@ try {
 	System.out.println("Esto se ejecutará siempre")
 }
 ```
-___
-## **Connections**
 
 

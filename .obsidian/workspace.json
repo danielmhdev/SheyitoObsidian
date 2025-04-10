@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d59125015fa82325",
+        "id": "bd2fab32e7c8b835",
         "type": "tabs",
         "children": [
           {
-            "id": "36589e1c3b384f97",
+            "id": "e669d6b08943f86c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMM Orientation.md",
+                "file": "Java/Scanner class.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "LLMM Orientation"
+              "title": "Scanner class"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#git",
+                "query": "tag:#java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5edc20911aee06ff",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMM Orientation.md",
+                "file": "Java/Exceptions management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LLMM Orientation"
+              "title": "Outline of Exceptions management"
             }
           },
           {
@@ -180,36 +181,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36589e1c3b384f97",
+  "active": "e669d6b08943f86c",
   "lastOpenFiles": [
-    "Note taking system.md",
-    "Java/Exceptions management.md",
-    "Java/Exception compilation.md",
-    "Git takeaways.md",
+    "Entornos de desarrollo/GitHub colaboration.md",
     "Entornos de desarrollo/Git takeaways.md",
+    "Entornos de desarrollo/Git push.md",
+    "Entornos de desarrollo/Git pull.md",
     "Entornos de desarrollo/Git merge.md",
     "Entornos de desarrollo/Conflicts.md",
-    "Git merge.md",
-    "Conflicts.md",
-    "Templates/X Takeaways.md",
+    "Entornos de desarrollo/GitHub fork.md",
+    "Entornos de desarrollo/Pull request.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Lenguajes de marcas/LLMM Orientation.md",
     "Templates/Conceptual note.md",
+    "Templates/X Takeaways.md",
     "Templates/Summary note.md",
-    "LLMM Orientation.md",
-    "Entornos de desarrollo",
+    "Note taking system.md",
     "Lenguajes de marcas/HTML attributes.md",
-    "Java/If block.md",
-    "Java/Switch case block.md",
+    "Java/Variables.md",
     "Java/Type promotion.md",
     "Java/Ternary operator.md",
-    "Java/Variables.md",
-    "Java/Basic operators.md",
-    "Java/JOptionPane class.md",
-    "Java/Data types.md",
-    "Java/Scanner class.md",
+    "Java/Switch case block.md",
+    "Java/Summary.md",
     "Java/String class.md",
+    "Java/Scanner class.md",
+    "Java/Random Access Memory.md",
     "Java/Math class.md",
-    "Untitled.canvas",
-    "Java/Java API.md",
+    "Java/JOptionPane class.md",
+    "Java/Exception compilation.md",
+    "Retos",
+    "Entornos de desarrollo",
     "Img/javaPackets.png",
     "Img/stack&Heap.png",
     "Pasted image 20250405120134.png",

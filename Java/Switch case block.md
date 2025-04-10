@@ -18,9 +18,8 @@ Detiene la ejecución del bloque donde se encuentra y continúa ejecutándose fu
 ### **Facts**
 - Se puede almacenar el valor evaluado por el switch en una variable utilizando -> para devolverlo.
 ___
-RETO 30 DÍAS ABRIL: DIA 6 | Cajero del Mercadona
 
-## **Resources**
+## **Examples**
 ```java
 import java.util.Scanner;  
   

@@ -3,7 +3,7 @@ tags:
   - html
 created: 2025-04-08 10:17:16
 ---
-## **Summary
+## **Summary**
 - Clases 100% prácticas.
 - Ejercicios auto-corregibles.
 - Crear una web desde 0 hasta producción.
@@ -13,6 +13,5 @@ created: 2025-04-08 10:17:16
 - SEO y experiencia de usuario.
 - XML.
 - Examen tipo test 50 preguntas.
-## **Resources**
 ___
 ## **Connections**

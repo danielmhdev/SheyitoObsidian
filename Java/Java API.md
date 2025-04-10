@@ -12,8 +12,7 @@ Los paquetes se utilizan para organizar clases, evitar conflictos y configurar l
 ### **Modules**
 Los módulos se utilizan para compactar el tamaño de las aplicaciones, con un código más seguro y más organizado.
 ___
-## **Sources**
+## **Example**
 ![[javaPackets.png]]
 
 ___
-## **Connections**

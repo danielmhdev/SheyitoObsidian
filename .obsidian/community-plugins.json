@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "dataview"
+  "dataview",
+  "auto-note-mover"
 ]

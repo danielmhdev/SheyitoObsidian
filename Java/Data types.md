@@ -1,6 +1,7 @@
 ---
-tags: "#java"
-created: "2025-04-06 09:54:05"
+tags:
+  - java
+created: 2025-04-06 09:54:05
 ---
 ## **Definition**
 

@@ -1,6 +1,6 @@
 ---
 tags: 
-created: "<% tp.date.now('YYYY-MM-DD HH:mm:ss') %>"
+created: "2025-04-10 16:25:59"
 ---
 ## **Definition**
 Definition body

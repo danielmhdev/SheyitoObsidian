@@ -7,7 +7,7 @@ El operador ternario permite evaluar una condición y almacenar su resultado en 
 ___
 ## **Key concepts**
 ### **Facts**
-- Aunque sirva para evaluar condiciones no es una estructura de control, sino un operador.
+- Aunque sirva para evaluar condiciones como el [[If block|Bloque if]] no es una estructura de control, sino un operador.
 ___
 ## **Resources**
 ```java
@@ -25,6 +25,3 @@ public class ifConditional {
     }  
 }
 ```
-___
-## Connections
-**Similar to [[If block]]**

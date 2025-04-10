@@ -13,7 +13,7 @@ Define una alternativa cuando la condición del `if` no se cumple.
 ### **`else if` block**
 Permite evaluar condiciones adicionales en orden, antes de llegar al `else`.
 ___
-## **Resources**
+## **Example**
 ```java
 import java.util.Scanner;  
   

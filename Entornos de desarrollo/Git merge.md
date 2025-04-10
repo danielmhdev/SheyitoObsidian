@@ -10,9 +10,4 @@ ___
 Cuando la rama está delante del main y simplemente hay que mover el HEAD.
 
 ### Three-way merge (Recursive)
-Cuando las ramas se han separado y evolucionado de forma distinta. Esto puede generar conflictos que deben resolverse.
-___
-## **Resources**
-___
-## **Connections**
-**Derivative to [[Conflicts]]**
+Cuando las ramas se han separado y evolucionado de forma distinta. Esto puede generar [[Conflicts|conflictos]] que deben resolverse.
