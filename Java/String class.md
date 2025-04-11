@@ -3,7 +3,7 @@ tags: "#java"
 created: "2025-04-04 10:20:19"
 ---
 ## **Definition**
-String es una clase normal que permite representar y manipular cadenas de carácteres.
+String es una clase normal que permite representar y manipular cadenas de caracteres.
 ___
 ## **Key concepts**
 - **`lenght`**: Returns the longitude of the string.

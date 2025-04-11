@@ -1,1 +1,0 @@
-Mi sistema de notas se basa en crear **notas breves** centradas en un **concepto clave** con títulos en inglés para facilitar la búsqueda. Incluyo una **definición** y **puntos clave**, y conecto las notas con **enlaces relacionados** para expandir el conocimiento de manera fluida y sin fricción.
